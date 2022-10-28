@@ -1,0 +1,3 @@
+/home/hindus/aids/wyremontujemy/cmake-build-debug/CMakeFiles/zad1.dir
+/home/hindus/aids/wyremontujemy/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/hindus/aids/wyremontujemy/cmake-build-debug/CMakeFiles/rebuild_cache.dir

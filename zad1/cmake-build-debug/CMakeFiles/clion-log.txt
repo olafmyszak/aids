@@ -1,0 +1,1 @@
+CMakeLists.txt not found in /home/hindus/aids/zad1 Select CMakeLists.txt
